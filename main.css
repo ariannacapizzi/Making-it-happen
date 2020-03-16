@@ -1,19 +1,21 @@
 h1 {
-    background-color: #607d8b;
+    background-color: black;
     color: #ffffff;
-  }
-  p {
-    background-color: #607d8b;
+    margin: 0px
+}
+p {
+    background-color: black;
     color: #ffffff;
-  }
+    font-family: Lobster;
+ }
 .title {
     font-size: 65px;
+    font-family: Lobster;
 }
 html
-{ background-color: rgb(0, 12, 6);}
+{ background-color:black;}
 body,html {
 
-    padding: 100px;
     box-sizing: border-box;
     font-weight: 500;
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -22,6 +24,7 @@ body,html {
 }
 img {
   border-radius: 8px;
+  border: #40A 1px solid;
 }
 
 a, u {
@@ -58,9 +61,8 @@ a, u {
     color: white;
   }
   body{
-    margin: 0px;
+    margin: 0px 50px 50px 50px;
     padding: 0px;
-    background: #080100;
     font-family: 'Lato', sans-serif;
   }
   
@@ -120,8 +122,6 @@ a, u {
   nav li:nth-child(2) a:after{ background: #ffd071; }
   nav li:nth-child(3) a:after{ background: #f0776c; }
   nav li:last-child a:after{ background: #1abc9c; }
-  
-
   
   
   @font-face {
