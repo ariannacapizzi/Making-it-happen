@@ -172,6 +172,8 @@
 	 background: url("https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/p960x960/86796120_10221359519638597_9054272014700773376_o.jpg?_nc_cat=102&_nc_ohc=5gdCtfblHk0AX_WeR0q&_nc_ht=scontent-lhr8-1.xx&_nc_tp=6&oh=d5501c9b8f9a2af941ecb4967a1155db&oe=5EFF02DB") no-repeat center center;
 	 background-size: cover;
 	 z-index: 45;
+	 border-radius: 8px;
+         border: #40A 1px solid;
 }
  .hide-photo-filter {
 	 position: relative;
